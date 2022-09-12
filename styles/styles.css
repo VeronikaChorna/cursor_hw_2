@@ -1,0 +1,17 @@
+body{
+    padding: 55px 55px; 
+}
+header {
+    width: 600px;
+  }
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+section {
+    width: 600px;
+}
+figure {
+    margin: 0%;
+    position: relative;
+}
